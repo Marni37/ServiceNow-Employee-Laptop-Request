@@ -1,2 +1,10 @@
 # ServiceNow-Employee-Laptop-Request
 A ServiceNow-based application for managing employee laptop requests, approvals, tracking, and reporting.
+The Automated Network Request Management project in ServiceNow is designed to streamline how organizations handle network resource needs, replacing manual processes with a fully automated system. By integrating request initiation, approval, and fulfillment into a single workflow, it ensures faster turnaround times, greater transparency, and improved compliance.
+
+The journey begins with Requirement Analysis and Planning, where business needs are carefully gathered, the scope is defined, and stakeholders are identified. This stage sets the foundation by drafting workflow diagrams and objectives, ensuring clarity before development starts. Once the groundwork is laid, the focus shifts to Backend Development and Configuration, where ServiceNow tables, forms, and catalog items are created. Backend logic and integrations are established to support request handling, forming the backbone of the system.
+
+Following this, the Workflow Development and Execution phase brings automation to life. Requests, approvals, and fulfillment processes are mapped into workflows, with notifications and escalation paths added to guarantee smooth execution. Rigorous testing ensures that the system performs seamlessly end to end. To strengthen governance, Business Rules, Security, and Validation are applied. Approval conditions are defined, role-based access controls are enforced, and input validation mechanisms are implemented to maintain accuracy, security, and compliance.
+
+Finally, the project culminates in Deployment, Final Presentation, and Conclusion. The application is moved into the live environment, where final testing and user acceptance take place. The outcomes are then presented, highlighting how the automation eliminates inefficiencies, accelerates approvals, and provides transparent tracking from start to finish.
+PROJECT DOCUMENTATION:(https://drive.google.com/drive/folders/1xoXegxaUU-jqQ_JrV6aND8uXf2B5hx83?usp=sharing)
